@@ -1,0 +1,87 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "liveServer.settings.port": 5501,
+        "better-comments.tags": [
+            {
+                "tag": "!",
+                "color": "#FF2D00",
+                "strikethrough": false,
+                "underline": false,
+                "backgroundColor": "transparent",
+                "bold": false,
+                "italic": false
+            },
+            {
+                "tag": "?",
+                "color": "#3498DB",
+                "strikethrough": false,
+                "underline": false,
+                "backgroundColor": "transparent",
+                "bold": false,
+                "italic": false
+            },
+            {
+                "tag": "//",
+                "color": "#474747",
+                "strikethrough": true,
+                "underline": false,
+                "backgroundColor": "transparent",
+                "bold": false,
+                "italic": false
+            },
+            {
+                "tag": "todo",
+                "color": "#FF8C00",
+                "strikethrough": false,
+                "underline": false,
+                "backgroundColor": "transparent",
+                "bold": false,
+                "italic": false
+            },
+            {
+                "tag": "*",
+                "color": "#98C379",
+                "strikethrough": false,
+                "underline": false,
+                "backgroundColor": "transparent",
+                "bold": false,
+                "italic": false
+            },
+            {
+                "tag": "Klasa:",
+                "color": "#3498DB",
+                "strikethrough": false,
+                "underline": false,
+                "backgroundColor": "transparent",
+                "bold": true,
+                "italic": true
+            },
+            {
+                "tag": "Napomena:",
+                "color": "#EB11BB",
+                //   "color": "#E74C3C",
+                "strikethrough": false,
+                "underline": false,
+                "backgroundColor": "transparent",
+                "bold": false,
+                "italic": false
+            }
+        ],
+        "editor.tabSize": 2,
+        "editor.detectIndentation": false,
+        "liveServer.settings.multiRootWorkspaceName": "OTTER_3.0"
+    },
+    "extensions": {
+      "recommendations": [
+        "aaron-bond.better-comments",
+        "mhutchie.git-graph",
+        "ritwickdey.liveserver",
+        "stevencl.addDocComments"
+      ]
+    }
+}

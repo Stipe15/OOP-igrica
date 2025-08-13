@@ -1,0 +1,262 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.12
+        },
+        "#Background": {
+            "dynamicWrapping": false
+        },
+        "#Lijane": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
+        "#Platforma1": {
+            "dynamicWrapping": false
+        },
+        "#Vatra": {
+            "dynamicWrapping": true
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx": {
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 0.5,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 980,
+                "y": 654
+            }
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Background": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Blago": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Boomerang": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Boomernag": {
+            "dynamicWrapping": false
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Coin": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Glavi": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Glavni": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.015625,
+            "scaleInEditor": 0.12
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Golem": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.015625,
+            "scaleInEditor": 0.125
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Lijane": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Platforma1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Platforma2": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Primjer": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx#Vatra": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1104,
+                "y": 792
+            }
+        },
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx#Background": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx#Blago": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx#Boomerang": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx#Coin": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx#Glavni": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.125
+        },
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx#Golem": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.125
+        },
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx#Lijane": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx#Platforma1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx#Platforma2": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx#Vatra": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma1/primjer.tmx": {
+            "scale": 0.7889453125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 639.4613061345743,
+                "y": 319.41377432291915
+            }
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma1/primjer.tmx#bg2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma1/primjer.tmx#dino": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma1/primjer.tmx#grass_dirt_water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma1/primjer.tmx#racoon": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma2/Platforma_64.tmx": {
+            "scale": 1.577890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.73065306728716,
+                "y": 192.02851908699307
+            }
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma2/Platforma_64.tmx#catDog64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma2/Platforma_64.tmx#desert_bg_64-10x6": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma2/Platforma_64.tmx#desert_tiles_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/primjer.tmx": {
+            "scale": 0.7889453125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 639.4613061345743,
+                "y": 319.41377432291915
+            }
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/primjer.tmx#bg2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/primjer.tmx#dino": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/primjer.tmx#grass_dirt_water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/primjer.tmx#racoon": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/primjer.tmx#spikeCoin": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx": {
+            "scale": 0.7889453125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 639.4613061345743,
+                "y": 319.41377432291915
+            }
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx#bg2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx#dino": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx#grass_dirt_water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx#racoon": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx#spikeCoin": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 100,
+    "last.exportedFilePath": "C:/Users/Korisnik/Desktop/Projekt predlozak",
+    "last.imagePath": "C:/Users/Korisnik/Desktop/OOP igra/craftpix-891123-free-golems-chibi-2d-game-sprites/Golem_1/PNG/PNG Sequences/Throwing",
+    "map.lastUsedExportFilter": "JavaScript map files (*.js)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "openFiles": [
+    ],
+    "project": "oop_igra.tiled-project",
+    "recentFiles": [
+        "C:/Users/Korisnik/Desktop/Projekt predlozak/Mapa1/Mapa1.tmx",
+        "C:/Users/Korisnik/Desktop/Mapa1.tmx",
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma1/primjer.tmx",
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/primjer.tmx",
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx",
+        "C:/Users/Korisnik/Desktop/oop/OOP10_rjesenje-pucanjeViseProjektila/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma2/Platforma_64.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 48,
+        "width": 48
+    },
+    "tileset.type": 1
+}

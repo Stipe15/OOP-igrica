@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="10" height="6" tilewidth="64" tileheight="64" infinite="0" nextlayerid="43" nextobjectid="33">
+ <editorsettings>
+  <export target="../../platforma.js" format="js"/>
+ </editorsettings>
+ <tileset firstgid="1" name="desert_tiles_64" tilewidth="64" tileheight="64" tilecount="48" columns="8">
+  <image source="desert_tiles_64.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="49" name="catDog64" tilewidth="64" tileheight="64" tilecount="60" columns="10">
+  <image source="catDog64.png" width="640" height="384"/>
+ </tileset>
+ <tileset firstgid="109" name="desert_bg_64-10x6" tilewidth="64" tileheight="64" tilecount="60" columns="10">
+  <image source="desert_bg_64-10x6.png" width="640" height="384"/>
+ </tileset>
+ <layer id="39" name="pozadina" width="10" height="6">
+  <data encoding="csv">
+109,110,111,112,113,114,115,116,117,118,
+119,120,121,122,123,124,125,126,127,128,
+129,130,131,132,133,134,135,136,137,138,
+139,140,141,142,143,144,145,146,147,148,
+149,150,151,152,153,154,155,156,157,158,
+159,160,161,162,163,164,165,166,167,168
+</data>
+ </layer>
+ <layer id="26" name="platforme" width="10" height="6">
+  <properties>
+   <property name="drawOrder" type="int" value="0"/>
+   <property name="tileTypeId" type="int" value="0"/>
+  </properties>
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,4,5,6,0,0,0,0,
+27,0,0,0,0,0,0,0,0,33,
+1,2,2,3,0,0,1,2,2,3
+</data>
+ </layer>
+ <layer id="41" name="macka" width="10" height="6">
+  <properties>
+   <property name="class" value="macka"/>
+  </properties>
+  <data encoding="csv">
+49,50,0,0,0,0,0,0,0,0,
+59,60,61,62,63,64,65,66,67,0,
+69,70,71,72,73,74,75,76,77,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="42" name="pas" width="10" height="6">
+  <properties>
+   <property name="class" value="pas"/>
+  </properties>
+  <data encoding="csv">
+79,80,0,0,0,0,0,0,0,0,
+89,90,91,92,93,94,95,96,97,0,
+99,100,101,102,103,104,105,106,107,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="40" name="ukras" width="10" height="6">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,37,0,0,0,0,0,0,0,22,
+0,45,0,0,0,0,0,0,26,0,
+0,0,0,0,25,28,0,0,0,0
+</data>
+ </layer>
+</map>
